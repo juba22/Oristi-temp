@@ -89,7 +89,6 @@
     overflow: hidden;
     padding-top: 40px;
     padding-bottom: 50px;
-    background-image: linear-gradient(rgb(6, 49, 42), rgba(255, 255, 255, 0.97));
 }
 
 .features .feat{width: 33.33333%; height: 150px;}
@@ -102,7 +101,7 @@
 
 .about-me .image{ width: 40%;}
 
-.about-me .image img{width: 100%; border-radius: 300px;}
+.about-me .image img{width: 100%}
 
 .about-me .info{width: 60%;}
 
@@ -128,7 +127,6 @@
     padding-top: 30px;
     padding-bottom: 30px;
     overflow: hidden;
-    background-image: linear-gradient(rgb(6, 49, 42), rgba(255, 255, 255, 0.97));
 }
 .my-skills .skills,
 .my-skills .progress{width: 50%;}
@@ -334,7 +332,7 @@
 
 .fl-left{float: left}
 
-p{line-height: 1.7; color: #002126;}
+p{line-height: 1.7; color: #888}
 
 h2, h3{color: #002d45;
      text-shadow: 1px 1px 2px #fefffe9e, 0 0 25px#c4f6fd, 0 0 5px #69fcfe;
