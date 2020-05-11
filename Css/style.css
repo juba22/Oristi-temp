@@ -28,12 +28,10 @@
     margin: 0 auto;
     font-size: 50px;
     width: 600px;
-    border-top: 4px solid #60afa7;
-    border-bottom: 4px solid #60afa7;
-    padding: 5px 0 ;
-    color: #b6d8d2e6;
-    text-shadow: 1px 1px 2px #fefffe9e,
-     0 0 25px#c4f6fd, 0 0 5px #69fcfe;
+    border-top: 4px solid #002d45;
+    border-bottom: 4px solid #002d45;
+    padding: 5px 0;
+    text-shadow: 1px 1px 2px #fefffe9e, 0 0 25px#c4f6fd, 0 0 5px #69fcfe;
     }
 .header .slider .intro button{
     color: #6defec;
@@ -41,7 +39,7 @@
     margin-top: 50px;
     font-size: 20px;
     border:3px solid #1b6f6100;
-    background-color: #0c2b268f;
+    background-color: #0c2b26;
     border-radius: 6px;
     font-weight: bold;
     padding: 15px 30px;
@@ -334,7 +332,5 @@
 
 p{line-height: 1.7; color: #888}
 
-h2, h3{color: #002d45;
-     text-shadow: 1px 1px 2px #fefffe9e, 0 0 25px#c4f6fd, 0 0 5px #69fcfe;
-}
+h2, h3{color: #002d45}
 /* End My Framework */
